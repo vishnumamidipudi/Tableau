@@ -17,3 +17,12 @@ a) An interactive dashboard showing Profit by City, tied to Profit by Segment an
 b) An interactive scatterplot showing the relationship between Profit and Sales by either Region, Country, or City, depending on their choice (Use a scatter and a parameter).
 c) An interactiveSalespersonanalysis showing Contracts Soldby each person, as well as a second chart showing difference from a selected Salesperson(Use two bar charts and a parameter).
 d) A two-way matrix, over time, tracking Salesperson quarterly performance against benchmarks (in parentheses) forContracts Sold(10)and CloseRate(30%)(Use the Pages functionality).
+
+3) Philadelphia Crime Assessment.twbx
+
+This is a Tableau workbook that highlights the crime trend and evaluates different districts in Philadelphia. It answers the following 
+a) Overall trend in crimes for the whole period of time in the dataset. The granularity should be at the Day level.
+b) Which are the most and the least dangerous hours in Philadelphia?
+c) Is there any seasonality in the crime rate?
+d) What are the top 10 crimes crime types?
+e) Which police HQ is in the most need of strengthening?
