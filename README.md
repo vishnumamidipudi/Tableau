@@ -9,3 +9,11 @@ a) How do different platforms compare side-by-side in terms of aggregate global 
 b) How do different publishers compare side-by-side in terms of aggregate global sales since their inceptions? Who is the leader?
 c) How do the New Generation (New Gen) consoles compare in terms of total global sales for combined 2014 and 2015? New Gen platforms in this dataset are PS4, XOne and WiiU.
 d) What are the top 10 game titles with the highest global sales?
+
+2) Africa Mobile.twbx
+
+This is a Tableau workbook that highlights the profitability analysis of a company, Africa Mobiles, after their business's aggressive expansion through Africa and answers the following questions:
+a) An interactive dashboard showing Profit by City, tied to Profit by Segment and a Profit Trend (Use a map, a bar chart, and a line chart). African Mobile should be able to select a City on the map and see the other charts adjust.
+b) An interactive scatterplot showing the relationship between Profit and Sales by either Region, Country, or City, depending on their choice (Use a scatter and a parameter).
+c) An interactiveSalespersonanalysis showing Contracts Soldby each person, as well as a second chart showing difference from a selected Salesperson(Use two bar charts and a parameter).
+d) A two-way matrix, over time, tracking Salesperson quarterly performance against benchmarks (in parentheses) forContracts Sold(10)and CloseRate(30%)(Use the Pages functionality).
