@@ -26,3 +26,23 @@ b) Which are the most and the least dangerous hours in Philadelphia?
 c) Is there any seasonality in the crime rate?
 d) What are the top 10 crimes crime types?
 e) Which police HQ is in the most need of strengthening?
+
+4) UN Votes.twbx
+
+You are a Data Analyst working for the United Nations Statistics Bureau. The bureau is trying to find any trends and insights in the raw, unprepared data. Voting codes are given below:
+
+1 – Yes, 2 –Abstain, 3 – No, 8 – Not present, 9 – Not a member.
+
+You have been supplied a dataset with United Nations Sessions data. It comes in a raw, unprepared format, and you will need to recode it using special packages.
+
+The bureau wants to know and in certain cases see visualization, for the following:
+
+1. Percent of positive votes across all years and countries.
+2. Trends in Positive, Negative and Abstain votes percent trends through the time (3 line charts with smoothing required?).
+3. Find top 5 countries which vote mostly positive.
+4. Find top 5 countries which vote mostly negative.
+5. Create stacked and grouped bar charts showing votes distribution from 1985 in 3 categories, Positive, Negative, Abstain.
+
+All Data manipulation was done in R.
+
+
